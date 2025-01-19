@@ -62,7 +62,7 @@ Welcome to my GitHub profile! I'm a **Full Stack Web Developer** passionate abou
 ### 📫 **Connect With Me**
 - 🌐 [GitHub](https://github.com/usmanaholic)
 - 📸 [Instagram](https://instagram.com/usmanaholic)
-- ✉️ Email: usmanaholic@example.com *(replace with your real email)*
+- ✉️ Email: usmansinghi786@gmail.com
 
 ---
 
