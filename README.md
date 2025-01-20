@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Usman
+# Hi there! I'm Usman
 
 Welcome to my GitHub profile! Here’s everything you never wanted to know about me, but are about to find out anyway.
 
@@ -36,3 +36,5 @@ Welcome to my GitHub profile! Here’s everything you never wanted to know about
 
 ## 📜 Random Quote to Live By:
 > "I have not failed. I've just found 10,000 bugs that don’t compile." - Not Edison
+>
+> ## Yeah, I know, bad humor. Who cares? (ChatGPT helped me write this.)
