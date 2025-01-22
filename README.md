@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! Here’s everything you never wanted to know about me, but are about to find out anyway.
 
 ## 🚀 About Me
-- 💻 **Occupation**: Full-time bug creator, part-time bug fixer.  
+- 💻 **Occupation**: Full time scroller, part-time developer.  
 - 📍 **Location**: Somewhere between my desk and the fridge.  
 - 🎨 **Skills**:  
   - Turning coffee into code. ☕➡️💻  
